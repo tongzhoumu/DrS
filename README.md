@@ -6,9 +6,9 @@ Official implementation of
 
 [Tongzhou Mu](https://cseweb.ucsd.edu/~t3mu/), [Minghua Liu](https://cseweb.ucsd.edu/~mil070/), [Hao Su](https://cseweb.ucsd.edu/~haosu), (UC San Diego)</br>
 
-<img src="assets/learned_vs_sparse.gif" width="25%"></br>
+<img src="assets/learned_vs_sparse.gif" width="40%"></br>
 
-[[Webpage]](https://sites.google.com/view/iclr24drs) [[Video]](https://drive.google.com/file/d/1mEppov-oTdFAR4pQ6suFm3JJ2UFkw4wj/view?usp=sharing)
+[[Webpage]](https://sites.google.com/view/iclr24drs) [[Paper]](https://arxiv.org/abs/2404.16779) [[Video]](https://drive.google.com/file/d/1mEppov-oTdFAR4pQ6suFm3JJ2UFkw4wj/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1n3Voc1hLjqsFh-yUKhVspkaPKcytLp_s/view?usp=drive_link)
 
 ----
 
